@@ -66,7 +66,7 @@ This project automates the analysis of bioengineering experiment images containi
 
 ## Contributors
 This project was developed collaboratively by:
-- **Mukand Krishna** - Lead Developer
+- **Mukand Krishna**
 - **Noreen Fatima**
 - **Muhammad Zain Ul Aabedin**
 - **Jawad Ahmed**
