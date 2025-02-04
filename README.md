@@ -71,7 +71,7 @@ This project was developed collaboratively by:
 - **Muhammad Zain Ul Aabedin**
 - **Jawad Ahmed**
 - **Yasmin Al-Omary**
-- 
+
 ## Contributing
 Feel free to fork this repository and submit pull requests for improvements.
 
