@@ -1,6 +1,8 @@
 # Image-Based Bioengineering Data Analysis and Query Tool
 
 ## Overview
+This project was assigned as part of the Data Science with Bioengineering Applications program at UC Irvine, which aims to introduce engineering students to data science concepts through real-world applications in bioengineering. During the program, we explored various data-driven approaches to analyze biological data, motivating us to develop a tool that automates bioengineering image analysis. By integrating data science techniques with image processing, this project enables researchers to extract meaningful insights from bioengineering experiments efficiently.
+
 This project automates the analysis of bioengineering experiment images containing cell groups. It extracts key attributes, organizes them into structured data, and enables efficient querying and visualization.
 
 ## Features
