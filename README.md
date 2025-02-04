@@ -14,7 +14,7 @@ This project automates the analysis of bioengineering experiment images containi
 📂 Data-Science-For-Bio-Engineering-Project
 ├── 📂 cleared/             # Folder for clear images
 ├── 📂 shaded/             # Folder for shady images
-├── 📂 Projecr description.docx/             # Processed results and visualizations
+├── 📂 Project description.docx/             # Processed results and visualizations
 ├── 📜 Project_Code.ipynb  # Jupyter Notebook for image analysis
 ├── 📜 images_analysis.xlsx # Extracted data in tabular format
 ├── 📜 README.md           # Project documentation (this file)
