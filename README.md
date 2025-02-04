@@ -52,7 +52,7 @@ This project automates the analysis of bioengineering experiment images containi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Image_Analysis_Project.git
+   git clone https://github.com/MukandKrishna/Data-Science-For-Bio-Engineering-Project.git
    ```
 2. Open the Jupyter Notebook:
    ```bash
